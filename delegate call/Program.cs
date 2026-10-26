@@ -39,7 +39,8 @@ namespace delegate_call
             Console.WriteLine(Apply(5, Double));   
             Console.WriteLine(Apply(5, PlusTen));   
             Console.WriteLine(Apply(0, Double));    
-            Console.WriteLine(Apply(0, PlusTen));               Console.WriteLine(Pick(4));   // 8
+            Console.WriteLine(Apply(0, PlusTen)); 
+            Console.WriteLine(Pick(4)); 
             Console.WriteLine(Pick(5));   
             Console.WriteLine(Pick(0));   
             Console.WriteLine(Pick(7));    
